@@ -111,4 +111,4 @@ This dataset was ideal for creating a realistic insurance fraud detection dashbo
 - Enhanced transparency for stakeholders using clean and interactive visuals.
 
 ## Screenshots / Demos
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](https://github.com/SunnySalvi090/Insurance_Fraud_Claim_Dashboard/blob/main/Dashboard.png)
